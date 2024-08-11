@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m currently working on Java FullStack
 - 📫 How to reach me kalyanredddygundedi@gmail.com
--Languages and Tools:
+-  Languages and Tools:
   C,C++,Java,MySql.
 
 <!---
