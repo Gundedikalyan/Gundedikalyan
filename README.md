@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gundedickalyan
+- 👋 Hi, I’m Gundedi kalyan
  A passionate Software Engineer from India.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m currently working on Java FullStack
